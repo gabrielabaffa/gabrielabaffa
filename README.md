@@ -1,4 +1,4 @@
 ## Bem vindos ⚡
 
-Compartilhamentos de projetos 
-Aluo do Alura
+-Compartilhamentos de projetos 
+-Aluno do Alura
